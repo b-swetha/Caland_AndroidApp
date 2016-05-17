@@ -79,10 +79,10 @@ In Android Studio,
 ![fin](https://cloud.githubusercontent.com/assets/12692738/15333800/c6a016a0-1c88-11e6-9bbc-bbc943faf00e.png)
 
 ###Problems
-- This project is a research oriented project and it has lots of bugs to be detected and corrected. 
+- This project is a research oriented project and it has bugs to be detected and corrected. 
 - The users will get to know as and when they use this application.
 
-On the positive side, this project has scope in many applications. 
+On the positive side, this application has lot of scope for development:- 
 - It can be developed further for various other applications and can be implemented in evaluation in online examinations, where, user gets credits based on what he tried to solve rather than just looking into his final answer.
 - It can be used for self evaluation.
 - It can be extended to include man more operators like logical, relational, bit wise, etc. 
